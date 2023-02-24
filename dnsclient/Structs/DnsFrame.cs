@@ -1,0 +1,7 @@
+﻿namespace dnsclient
+{
+    struct DnsFrame
+    {
+
+    }
+}
